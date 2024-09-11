@@ -1,6 +1,8 @@
 # Python Configurations and Templates for FastAPI and Flask Projects
 
-This repository serves as a collection of configuration files and templates for Python projects developed using FastAPI or Flask. It provides a ready-to-use setup for common tasks such as logging, authentication, database connections, caching, and environment-specific configurations.
+This repository serves as a collection of configuration files and templates for Python projects 
+developed using FastAPI or Flask. It provides a ready-to-use setup for common tasks such as logging, 
+authentication, database connections, caching, and environment-specific configurations.
 
 ## Features
 
